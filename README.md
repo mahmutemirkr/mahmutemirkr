@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmutemirkr
+- 👋 Hi, I’m Emir
 - 👀 I’m interested in web development
 - :computer: I know these programming languages:PHP(Symfony),JavaScript,Python(Django)
 - 🌱 I love learning new technologies all the time

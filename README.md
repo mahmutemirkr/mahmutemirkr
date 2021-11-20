@@ -1,4 +1,4 @@
-### Hi there 👋
+ 👋
 
 - 👋 Hi, I’m Emir
 - 👀 I’m interested in web and mobil development
